@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315550561110",
+    "project_id": "learncodinglanguages",
+    "storage_bucket": "learncodinglanguages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315550561110:android:a4f2a5b3916a8e64519cf7",
+        "android_client_info": {
+          "package_name": "Learning.Code.Languages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315550561110-o9iaa9tflvpg9m2fdf917fd0b60j5ef0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7gcwZb8vAGJi0y5P11FE0YLxmvHTPRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315550561110-o9iaa9tflvpg9m2fdf917fd0b60j5ef0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
